@@ -11,6 +11,8 @@ This repo is for practising Git and GitHub concepts including:
 - Pull requests
 - GitHub Pages
 
+---
+
 # How-To Documentation Hub
 
 Welcome to our user guides. Use the links below to find what you need.
