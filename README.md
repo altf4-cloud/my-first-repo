@@ -1,9 +1,9 @@
 ```markdown
-# My First Repo
+# How-To Documentation Hub
 
-Welcome to my GitHub learning project.
+Welcome to our user guides. Use the links below to find what you need.
 
-## What This Is
+---
 
 This repo is for practising Git and GitHub concepts including:
 - Commits
